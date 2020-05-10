@@ -1,0 +1,10 @@
+.Header {
+  background: black;
+  padding-top: 50px;
+}
+
+h1 {
+  color: white;
+  font-weight: 100;
+  font-family: "Abril Fatface", sans-serif;
+}

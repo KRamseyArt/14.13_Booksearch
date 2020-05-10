@@ -1,0 +1,16 @@
+.ListItem {
+  background: white;
+  border: 1px solid #ddd;
+  list-style-type: none;
+  display: flex;
+  text-align: left;
+}
+
+.ListItem img{
+  max-height: 200px;
+}
+
+.details {
+  flex: 5;
+  margin: 10px;
+}

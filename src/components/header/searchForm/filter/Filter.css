@@ -1,0 +1,7 @@
+.Filter {
+  background: #ddd;
+  padding: 10px 50px 10px 50px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}

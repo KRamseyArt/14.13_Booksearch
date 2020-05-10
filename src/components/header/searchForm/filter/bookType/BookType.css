@@ -1,0 +1,7 @@
+.BookType {
+  flex: 1;
+}
+.BookType select {
+  min-width: 100px;
+  margin-left: 10px;
+}

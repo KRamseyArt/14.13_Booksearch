@@ -1,0 +1,8 @@
+.PrintType {
+  flex: 1;
+}
+
+.PrintType select {
+  min-width: 75px;
+  margin-left: 10px;
+}
